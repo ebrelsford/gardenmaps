@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:py="http://genshi.edgewall.org/">
+    <head>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+        <script type="text/javascript" src="http://maps.google.com/maps/api/js?file=api&amp;v=2&amp;sensor=false"></script>
+
+        <script type="text/javascript" src="resources/lib.js"></script>
+        <script type="text/javascript" src="lib/jquery-xqs-flyoutMenu.js"></script>
+
+        <script type="text/javascript" src="resources/internal.js"></script>
+
+        <link type="text/css" rel="stylesheet" href="resources/css/style.css" />
+        <link type="text/css" rel="stylesheet" href="lib/css/custom-theme/jquery-ui-1.8.7.custom.css" />
+        
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-21831100-2']);
+            _gaq.push(['_trackPageview']);
+
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head>
+    <body class="embed">
+        <div id="content">
+            <div id="searchbar">
+                <form id="search">
+                    <div id="warning_container" style="height: 20px;">
+                        <div id="warning" style="color: red; display: none;">Please enter a New York address or a garden name.</div>
+                    </div>
+                    Garden Locator: <input type="text" id="address" name="address" /> <a id="search_button" style="margin-bottom: 5px;">Go!</a>
+                </form>
+            </div>
+            <div id="left">
+                <div id="attribute_picker_container" class="menu" style="overflow: visible;">
+                    <div class="menu-container"></div>
+                </div>
+                <div id="legend" class="menu" style="position: absolute; top: 400px;">
+                    <div id="selectors">
+
+                        <div class="selector_indicator active" style="background: #f9ff51;">
+                            <div class="reset"></div>
+                            <span class="label"></span>
+                            <div>
+                                <span class="details"><span class="selected_gardens"></span> of <span class="total_gardens"></span> surveyed gardens<br />%<span class="percentage"></span></span>
+                            </div>
+
+                        </div>
+                        <div class="selector_indicator active" style="background: #f90000;">
+                            <div class="reset"></div>
+                            <span class="label"></span>
+                            <div>
+                                <span class="details"><span class="selected_gardens"></span> of <span class="total_gardens"></span> surveyed gardens<br />%<span class="percentage"></span></span>
+                            </div>
+                        </div>
+                        <div id="intersection_indicator" class="selector_indicator" style="background: #E8C051;">
+                            <span class="label"></span> <span style="font-size: 60%;">and</span> <span class="label"></span>
+                            <div>
+                                <span class="details"><span class="selected_gardens"></span> of <span class="total_gardens"></span> surveyed gardens<br />%<span class="percentage"></span></span>
+                            </div>
+                        </div>
+                        <div id="neither_indicator" class="selector_indicator" style="background: green;">
+                            <span class="label">neither</span>
+                        </div>
+                        <div id="unsurveyed_indicator" class="selector_indicator" style="background: #4A48FF;">
+                            <span class="label">not surveyed</span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div id="right">
+                <div id="map"></div>
+                <div id="credits">
+                    Made by 
+                    <a href="http://gardenmaps.org/">
+                        <img class="logo" src="resources/img/logo-small.png" alt="Garden Maps logo" />
+                    </a>
+                </div>
+                <div id="help" style="z-index: 5001;">
+                    <h1>How to use this map</h1>
+                    <p>
+                    Select items from the bottom left that you would like to view. The first one you click will fill in the <span class="yellow">yellow</span> box and highlight gardens that have that item in <span class="yellow">yellow</span>, and the second will fill in the <span class="red">red</span> box. The <span class="orange">orange</span> box will show you any overlap. To change which items you are comparing, click the <span class="delete"></span> in the top right corner of the <span class="yellow">yellow</span> or <span class="red">red</span> box.
+                    </p>
+                    <p>
+                    For example, if you click <span class="trigger">art</span>, then <span class="trigger">murals</span>, all surveyed gardens with murals will be highlighted with <span class="yellow">yellow</span>. Then, if you click <span class="trigger">volunteers</span> followed by <span class="trigger">hosts volunteers</span>, all surveyed gardens that host volunteers will be highlighted in <span class="red">red</span>. All surveyed gardens with murals that also host volunteers will appear in <span class="orange">orange</span>. If you now decide that you are no longer interested in murals, you can click the <span class="delete"></span> next to 'mural' on the left.
+                    </p>
+                    <a id="close_help_button" style="width: 150px; margin-top: 20px; position: absolute; right: 20px; bottom: 20px;">OK</a> 
+                </div>
+
+                <div id="map_buttons" style="z-index: 4999; width: 300px;">
+                    <div id="show_help" class="button">
+                        <span class="label">Help</span>
+                    </div>
+                    <div id="political_borders" class="button">
+                        <span class="label">Political Borders</span>
+                        <div id="political_borders_selector" class="dropdown">
+                            <ul>
+                                <li id="labels" style="border-bottom: 1px solid gray; margin-bottom: 5px;"><input type="checkbox" id="labels_checkbox" /><label for="labels_checkbox">labels</label></li>
+                                <li id="none"><input type="radio" id="none_radio" name="political_borders" checked="checked" /><label for="none_radio">none</label></li>
+                                <li id="boroughs"><input type="radio" id="boroughs_radio" name="political_borders" /><label for="boroughs_radio">Boroughs</label></li>
+                                <li id="city_councils"><input type="radio" id="city_councils_radio" name="political_borders" /><label for="city_councils_radio">City Council Districts</label></li>
+                                <li id="community_districts"><input type="radio" id="community_districts_radio" name="political_borders" /><label for="community_districts_radio">Community Districts</label></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
+

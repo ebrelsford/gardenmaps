@@ -1,0 +1,147 @@
+<script type="text/javascript">
+    $("#tabs").tabs();
+</script>
+
+<div id="tabs">
+    <ul>
+        <li><a href="#tab-basics">Basics</a></li>
+        <li><a href="#tab-foods">Foods</a></li>
+        <li><a href="#tab-description">Description</a></li>
+        <li><a href="#tab-other">Other</a></li>
+    </ul>
+    
+    <div id="tab-basics">
+        {#if !$T.surveyed}
+        <div class="warning">
+            <span>This information is out of date. If this is your garden, please complete the survey and be counted!</span>
+        </div>
+        {#/if} 
+        <div>
+            <label>name</label>
+            <span class="list">{$T.name}</span>
+        </div>
+        <div>
+            <label>address</label>
+            <span class="list">{$T.address}, {$T.neighborhood}, {$T.borough}</span>
+        </div>
+        <div>
+            <label>city council district</label>
+            <span class="list">{$T.council_district}</span>
+        </div>
+        <div>
+            <label>community board</label>
+            <span class="list">{$T.community_board}</span>
+        </div>
+        <div>
+            <label>year founded</label>
+            <span class="list">{$T.year_started}</span>
+        </div>
+        <div>
+            <label>previous use</label>
+            <span class="list">{$T.previous_use}</span>
+        </div>
+        <div>
+            <label>website</label>
+            <span class="list"><a href="{$T.website}">{$T.website}</a></span>
+        </div>
+        <div>
+            <label>open hours</label>
+            <span class="list">{$T['open hours']}</span>
+        </div>
+        <div>
+            <label>wait list for membership?</label>
+            <span class="list">{$T.waitlist}</span>
+        </div>
+        <div>
+            <label>membership dues?</label>
+            <span class="list">{$T.dues}</span>
+        </div>
+        <div>
+            <label>owned by</label>
+            <span class="list">{$T.ownership}</span>
+        </div>
+        <div>
+            <label>languages spoken</label>
+            <span class="list">{$T.languages_spoken}</span>
+        </div>
+        <div>
+            <label>compost</label>
+            <span class="list">{$T['composts currently']}</span>
+        </div>
+        <div>
+            <label>who can compost</label>
+            <span class="list">{$T['who composts']}</span>
+        </div>
+        <div>
+            <label>works with schools</label>
+            <span class="list">{$T['works with schools']}</span>
+        </div>
+        <div>
+            <label>volunteers needed?</label>
+            <span class="list">{$T['volunteers needed']}</span>
+        </div>
+    </div>
+    <div id="tab-description">
+        {$T['description']}
+    </div>
+    <div id="tab-other">
+        <div>
+            <label>other plants</label>
+            <span class="list">{#foreach $T['other_plants'] as other}{$T.other}{#if $T.other$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>structures</label>
+            <span class="list">{#foreach $T['structures'] as structure}{$T.structure}{#if $T.structure$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>art</label>
+            <span class="list">{#foreach $T['art'] as art}{$T.art}{#if $T.art$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>water features</label>
+            <span class="list">{#foreach $T['water features'] as water}{$T.water}{#if $T.water$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>events</label>
+            <span class="list">{#foreach $T['events'] as event}{$T.event}{#if $T.event$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>private events</label>
+            <span class="list">{#foreach $T['private events'] as event}{$T.event}{#if $T.event$last == false}, {#/if}{#/for}</span>
+        </div>
+    </div>
+    <div id="tab-foods">
+        <div>
+            <label>percent of garden that is edible</label>
+            <span class="list">{$T['perceived edibility']}</span>
+        </div>
+        <div>
+            <label>use</label>
+            <span class="list">{#foreach $T['food use'] as use}{$T.use}{#if $T.use$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>fruits</label>
+            <span class="list">{#foreach $T.food.fruits as fruit}{$T.fruit}{#if $T.fruit$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>greens</label>
+            <span class="list">{#foreach $T.food.greens as green}{$T.green}{#if $T.green$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>herbs</label>
+            <span class="list">{#foreach $T.food.herbs as herb}{$T.herb}{#if $T.herb$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>trees</label>
+            <span class="list">{#foreach $T.food.trees as tree}{$T.tree}{#if $T.tree$last == false}, {#/if}{#/for}</span>
+        </div>
+        <div>
+            <label>vegetables</label>
+            <span class="list">{#foreach $T.food.vegetables as vegetable}{$T.vegetable}{#if $T.vegetable$last == false}, {#/if}{#/for}</span>
+        </div>
+    </div>
+</div>
+
+<div id="name" style="position: absolute; top: 3px; right: 20px; width: 185px;">
+    {$T.name}
+</div>

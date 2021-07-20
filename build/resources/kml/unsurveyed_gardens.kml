@@ -1,0 +1,2150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+  <Folder>
+    <Placemark id="5082">
+      <name>11 BC Serenity Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.978332, 40.726967</coordinates>
+      </Point>
+    </Placemark><Placemark id="86">
+      <name>142nd Pl. &amp; St. Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.798340, 40.676201</coordinates>
+      </Point>
+    </Placemark><Placemark id="362">
+      <name>176th Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.909431, 40.848183</coordinates>
+      </Point>
+    </Placemark><Placemark id="508">
+      <name>2120 Mapes Avenue HDFC</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>East Tremont</neighborhood>
+      <Point>
+        <coordinates>-73.884589, 40.846946</coordinates>
+      </Point>
+    </Placemark><Placemark id="5005">
+      <name>23rd Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Coney Island</neighborhood>
+      <Point>
+        <coordinates>-73.986903, 40.578727</coordinates>
+      </Point>
+    </Placemark><Placemark id="1348">
+      <name>400 Montauk Avenue Block Association (Ismael Vega y Amigos)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.876647, 40.668961</coordinates>
+      </Point>
+    </Placemark><Placemark id="1128">
+      <name>64th Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Sunset Park</neighborhood>
+      <Point>
+        <coordinates>-74.020917, 40.638690</coordinates>
+      </Point>
+    </Placemark><Placemark id="136">
+      <name>6BC Botanical Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.980396, 40.723958</coordinates>
+      </Point>
+    </Placemark><Placemark id="65">
+      <name>6th Street &amp; Avenue B Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.982030, 40.724315</coordinates>
+      </Point>
+    </Placemark><Placemark id="205">
+      <name>811 and Friends Association</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.916719, 40.823053</coordinates>
+      </Point>
+    </Placemark><Placemark id="5084">
+      <name>8th Avenue Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.938744, 40.827255</coordinates>
+      </Point>
+    </Placemark><Placemark id="394">
+      <name>A Better Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Stuyvesant Heights</neighborhood>
+      <Point>
+        <coordinates>-73.928049, 40.677565</coordinates>
+      </Point>
+    </Placemark><Placemark id="412">
+      <name>A. Badillo Community Rose Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.912813, 40.825328</coordinates>
+      </Point>
+    </Placemark><Placemark id="17">
+      <name>Albert's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.990981, 40.725397</coordinates>
+      </Point>
+    </Placemark><Placemark id="180">
+      <name>All People's Church of the Apostolic Faith</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.946067, 40.694273</coordinates>
+      </Point>
+    </Placemark><Placemark id="305">
+      <name>Amboy Street Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.913298, 40.665600</coordinates>
+      </Point>
+    </Placemark><Placemark id="324">
+      <name>American Heart</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.946700, 40.693155</coordinates>
+      </Point>
+    </Placemark><Placemark id="1361">
+      <name>Ancient Order of Gardeners</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.935297, 40.619572</coordinates>
+      </Point>
+    </Placemark><Placemark id="139">
+      <name>Angie Lee-Gonzalez and Luis Gonzalez Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Crotona Park-East</neighborhood>
+      <Point>
+        <coordinates>-73.884656, 40.836674</coordinates>
+      </Point>
+    </Placemark><Placemark id="703">
+      <name>Aqueduct Homeowners &amp; Associates</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.907125, 40.856153</coordinates>
+      </Point>
+    </Placemark><Placemark id="13">
+      <name>Arboleda de Ninos/Children's Grove</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.986150, 40.693723</coordinates>
+      </Point>
+    </Placemark><Placemark id="899">
+      <name>Astoria Residents Reclaiming Our World (ARROW)</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Astoria</neighborhood>
+      <Point>
+        <coordinates>-73.934794, 40.760006</coordinates>
+      </Point>
+    </Placemark><Placemark id="1343">
+      <name>Atkins Gardeners</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.878519, 40.673785</coordinates>
+      </Point>
+    </Placemark><Placemark id="974">
+      <name>Avenue B Community Garden Association</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Lower East Side</neighborhood>
+      <Point>
+        <coordinates>-73.978900, 40.728259</coordinates>
+      </Point>
+    </Placemark><Placemark id="1034">
+      <name>Backyard Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Red Hook</neighborhood>
+      <Point>
+        <coordinates>-74.005472, 40.683119</coordinates>
+      </Point>
+    </Placemark><Placemark id="1002">
+      <name>Bayview Habitat</name>
+      <surveyed>False</surveyed>
+      <borough>Staten Island</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-74.163777, 40.526910</coordinates>
+      </Point>
+    </Placemark><Placemark id="5087">
+      <name>Bed-Stuy Farm</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.926788, 40.681957</coordinates>
+      </Point>
+    </Placemark><Placemark id="26">
+      <name>Belmont Little Farmers</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Belmont</neighborhood>
+      <Point>
+        <coordinates>-73.884515, 40.856877</coordinates>
+      </Point>
+    </Placemark><Placemark id="816">
+      <name>Big Red Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.889584, 40.668731</coordinates>
+      </Point>
+    </Placemark><Placemark id="1033">
+      <name>Bissel Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.849068, 40.899567</coordinates>
+      </Point>
+    </Placemark><Placemark id="5089">
+      <name>Black Veterans for Social Justice</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.944527, 40.801579</coordinates>
+      </Point>
+    </Placemark><Placemark id="1057">
+      <name>Boardwalk Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.988403, 40.572376</coordinates>
+      </Point>
+    </Placemark><Placemark id="46">
+      <name>Bradhurst Avenue Tenants Association</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.938738, 40.827219</coordinates>
+      </Point>
+    </Placemark><Placemark id="1132">
+      <name>Brook Park</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Mott Haven</neighborhood>
+      <Point>
+        <coordinates>-73.918386, 40.809444</coordinates>
+      </Point>
+    </Placemark><Placemark id="511">
+      <name>Brooklyn Bears Carlton Ave. Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Clinton Hill</neighborhood>
+      <Point>
+        <coordinates>-73.971031, 40.685665</coordinates>
+      </Point>
+    </Placemark><Placemark id="192">
+      <name>Brooklyn Bears Pacific Street Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Park Slope</neighborhood>
+      <Point>
+        <coordinates>-73.976569, 40.682827</coordinates>
+      </Point>
+    </Placemark><Placemark id="5091">
+      <name>Bruckner Mott Haven Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.913673, 40.803520</coordinates>
+      </Point>
+    </Placemark><Placemark id="212">
+      <name>Bryant Hill Garden ( 9-8 Faile St.)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Hunt's Point</neighborhood>
+      <Point>
+        <coordinates>-73.888560, 40.823205</coordinates>
+      </Point>
+    </Placemark><Placemark id="817">
+      <name>C.A.U.S.A. Festival Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East NY</neighborhood>
+      <Point>
+        <coordinates>-73.889427, 40.668430</coordinates>
+      </Point>
+    </Placemark><Placemark id="61">
+      <name>Cambria Heights Civic Association</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Cambria Heights</neighborhood>
+      <Point>
+        <coordinates>-73.734031, 40.693227</coordinates>
+      </Point>
+    </Placemark><Placemark id="185">
+      <name>CAMPOS</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.977511, 40.727328</coordinates>
+      </Point>
+    </Placemark><Placemark id="951">
+      <name>Carolina Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.939765, 40.803091</coordinates>
+      </Point>
+    </Placemark><Placemark id="5010">
+      <name>Carpenter Avenue Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Wakefield</neighborhood>
+      <Point>
+        <coordinates>-73.856110, 40.901409</coordinates>
+      </Point>
+    </Placemark><Placemark id="486">
+      <name>Carver Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.934702, 40.802085</coordinates>
+      </Point>
+    </Placemark><Placemark id="149">
+      <name>Cedar Tree Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford Stuyvesent</neighborhood>
+      <Point>
+        <coordinates>-73.959157, 40.687495</coordinates>
+      </Point>
+    </Placemark><Placemark id="44">
+      <name>Central Bainbridge Block Association Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.925581, 40.681827</coordinates>
+      </Point>
+    </Placemark><Placemark id="5080">
+      <name>Centro Cultural Rincon Criollo</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.912035, 40.820587</coordinates>
+      </Point>
+    </Placemark><Placemark id="568">
+      <name>Chenchitas' Group</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.942194, 40.800085</coordinates>
+      </Point>
+    </Placemark><Placemark id="1112">
+      <name>Children's Aid Society Garden (The Sowers)</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.955305, 40.804081</coordinates>
+      </Point>
+    </Placemark><Placemark id="785">
+      <name>Children's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.978997, 40.728107</coordinates>
+      </Point>
+    </Placemark><Placemark id="616">
+      <name>Citizens for a Better Community</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford-Stuyvesant</neighborhood>
+      <Point>
+        <coordinates>-73.926900, 40.687212</coordinates>
+      </Point>
+    </Placemark><Placemark id="5093">
+      <name>Clara's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.889041, 40.674405</coordinates>
+      </Point>
+    </Placemark><Placemark id="5120">
+      <name>Classon/Fulgate Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Clinton Hill</neighborhood>
+      <Point>
+        <coordinates>-73.959321, 40.683868</coordinates>
+      </Point>
+    </Placemark><Placemark id="591">
+      <name>Clayton Williams Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.950699, 40.810868</coordinates>
+      </Point>
+    </Placemark><Placemark id="695">
+      <name>Cleveland Street Vegetable Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.884050, 40.674143</coordinates>
+      </Point>
+    </Placemark><Placemark id="567">
+      <name>Clifton Place Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Clinton Hill</neighborhood>
+      <Point>
+        <coordinates>-73.962343, 40.687627</coordinates>
+      </Point>
+    </Placemark><Placemark id="699">
+      <name>Committee of Poor Peoples of the Lower East</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Lower East Side</neighborhood>
+      <Point>
+        <coordinates>-73.984351, 40.720181</coordinates>
+      </Point>
+    </Placemark><Placemark id="249">
+      <name>Community Leaders of West 146th Street</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.940326, 40.822788</coordinates>
+      </Point>
+    </Placemark><Placemark id="313">
+      <name>Concerned Citizens of Grove Street</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.921505, 40.692557</coordinates>
+      </Point>
+    </Placemark><Placemark id="836">
+      <name>Concerned Tenants of Daly Avenue</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.881005, 40.845885</coordinates>
+      </Point>
+    </Placemark><Placemark id="694">
+      <name>Contented Hart Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.907370, 40.683391</coordinates>
+      </Point>
+    </Placemark><Placemark id="1143">
+      <name>Convent Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.942289, 40.828797</coordinates>
+      </Point>
+    </Placemark><Placemark id="917">
+      <name>Corozal  (117th Street Homeowners Asso</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.940615, 40.798829</coordinates>
+      </Point>
+    </Placemark><Placemark id="153">
+      <name>Crystal Street Block Association Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.875170, 40.678375</coordinates>
+      </Point>
+    </Placemark><Placemark id="5094">
+      <name>Culinary Kids Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.763847, 40.595791</coordinates>
+      </Point>
+    </Placemark><Placemark id="790">
+      <name>Davidson Avenue Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.903354, 40.861243</coordinates>
+      </Point>
+    </Placemark><Placemark id="718">
+      <name>Davidson Avenue Community Gardeners Group</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.900850, 40.864203</coordinates>
+      </Point>
+    </Placemark><Placemark id="996">
+      <name>De Colores Community Yard &amp; Cultural</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.979702, 40.725429</coordinates>
+      </Point>
+    </Placemark><Placemark id="953">
+      <name>Demera Santiago Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Huntspoint/Longwood</neighborhood>
+      <Point>
+        <coordinates>-73.902209, 40.815190</coordinates>
+      </Point>
+    </Placemark><Placemark id="203">
+      <name>Diamante Garden (Block and School Association)</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.935536, 40.797755</coordinates>
+      </Point>
+    </Placemark><Placemark id="1020">
+      <name>Dorothy K. McGowan Memorial Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.942310, 40.833819</coordinates>
+      </Point>
+    </Placemark><Placemark id="5096">
+      <name>Doscher Street Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.872231, 40.673588</coordinates>
+      </Point>
+    </Placemark><Placemark id="944">
+      <name>Dred Scott Bird Sanctuary Garden and Park</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.913096, 40.836240</coordinates>
+      </Point>
+    </Placemark><Placemark id="566">
+      <name>Drew Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.871878, 40.850486</coordinates>
+      </Point>
+    </Placemark><Placemark id="320">
+      <name>Dunton Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Jamaica</neighborhood>
+      <Point>
+        <coordinates>-73.816795, 40.705628</coordinates>
+      </Point>
+    </Placemark><Placemark id="972">
+      <name>Earth People</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.978973, 40.725095</coordinates>
+      </Point>
+    </Placemark><Placemark id="311">
+      <name>East Harlem Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.941485, 40.799468</coordinates>
+      </Point>
+    </Placemark><Placemark id="296">
+      <name>Ebenezer Wesleyan Methodist Church</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.949169, 40.788754</coordinates>
+      </Point>
+    </Placemark><Placemark id="677">
+      <name>Edith Community Garden (830 Elton Tnts. Association)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.912652, 40.822821</coordinates>
+      </Point>
+    </Placemark><Placemark id="19">
+      <name>El Gallo Social Club Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.940507, 40.799735</coordinates>
+      </Point>
+    </Placemark><Placemark id="5015">
+      <name>El Girasol</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.915604, 40.805713</coordinates>
+      </Point>
+    </Placemark><Placemark id="753">
+      <name>El Puente Espirito Tierra</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.959522, 40.712558</coordinates>
+      </Point>
+    </Placemark><Placemark id="621">
+      <name>El Sol Brillante</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.980055, 40.728291</coordinates>
+      </Point>
+    </Placemark><Placemark id="322">
+      <name>Elizabeth Langley Memorial Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.941074, 40.816140</coordinates>
+      </Point>
+    </Placemark><Placemark id="663">
+      <name>Elton Street Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.881834, 40.668625</coordinates>
+      </Point>
+    </Placemark><Placemark id="5097">
+      <name>ENY Success Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.897431, 40.664556</coordinates>
+      </Point>
+    </Placemark><Placemark id="276">
+      <name>Euclid 500 Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.871614, 40.674122</coordinates>
+      </Point>
+    </Placemark><Placemark id="9">
+      <name>Euclid and Pine Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.869602, 40.669934</coordinates>
+      </Point>
+    </Placemark><Placemark id="966">
+      <name>Family and Friends</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.908519, 40.661021</coordinates>
+      </Point>
+    </Placemark><Placemark id="748">
+      <name>Farm in the Bronx / P.S. 59 - "Thomas W. Cooke"</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Tremont</neighborhood>
+      <Point>
+        <coordinates>-73.893852, 40.852425</coordinates>
+      </Point>
+    </Placemark><Placemark id="659">
+      <name>Farmers Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.918100, 40.674593</coordinates>
+      </Point>
+    </Placemark><Placemark id="94">
+      <name>Firemens Memorial Garden Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.977996, 40.724263</coordinates>
+      </Point>
+    </Placemark><Placemark id="517">
+      <name>Five Star Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.952024, 40.807168</coordinates>
+      </Point>
+    </Placemark><Placemark id="583">
+      <name>Floral Vineyard</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.884574, 40.673759</coordinates>
+      </Point>
+    </Placemark><Placemark id="1362">
+      <name>Floyd Bennet Field, Ryan Visitors</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Gateway National Recreation Area</neighborhood>
+      <Point>
+        <coordinates>-73.949997, 40.650002</coordinates>
+      </Point>
+    </Placemark><Placemark id="885">
+      <name>Forsyth Garden Conservancy</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Lower East Side</neighborhood>
+      <Point>
+        <coordinates>-73.943186, 40.794550</coordinates>
+      </Point>
+    </Placemark><Placemark id="215">
+      <name>Frank White Memorial Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Hamilton Heights</neighborhood>
+      <Point>
+        <coordinates>-73.949885, 40.824246</coordinates>
+      </Point>
+    </Placemark><Placemark id="886">
+      <name>Friendly Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.945792, 40.796227</coordinates>
+      </Point>
+    </Placemark><Placemark id="375">
+      <name>Garden Beautiful/West 153rd Street Harlemites</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.937335, 40.827739</coordinates>
+      </Point>
+    </Placemark><Placemark id="334">
+      <name>Garden of Eden (Alvarez Community Garden)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.911629, 40.824951</coordinates>
+      </Point>
+    </Placemark><Placemark id="957">
+      <name>Garden of Eden (X)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.907361, 40.844061</coordinates>
+      </Point>
+    </Placemark><Placemark id="762">
+      <name>Garden of Life</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Mt. Eden</neighborhood>
+      <Point>
+        <coordinates>-73.907656, 40.843953</coordinates>
+      </Point>
+    </Placemark><Placemark id="1182">
+      <name>Garden of Youth</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Crotona</neighborhood>
+      <Point>
+        <coordinates>-73.992207, 40.719664</coordinates>
+      </Point>
+    </Placemark><Placemark id="708">
+      <name>Garden Party</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.887286, 40.674456</coordinates>
+      </Point>
+    </Placemark><Placemark id="791">
+      <name>Generation "X" Cultural Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.981388, 40.722547</coordinates>
+      </Point>
+    </Placemark><Placemark id="576">
+      <name>Gethsemane Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.909754, 40.658987</coordinates>
+      </Point>
+    </Placemark><Placemark id="183">
+      <name>Gil Hodges Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Park Slope</neighborhood>
+      <Point>
+        <coordinates>-73.984786, 40.676242</coordinates>
+      </Point>
+    </Placemark><Placemark id="235">
+      <name>Glenmore Hendrix Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.889911, 40.674245</coordinates>
+      </Point>
+    </Placemark><Placemark id="230">
+      <name>Good Shepherd's Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.879634, 40.670703</coordinates>
+      </Point>
+    </Placemark><Placemark id="483">
+      <name>Granite Street Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.907598, 40.682368</coordinates>
+      </Point>
+    </Placemark><Placemark id="507">
+      <name>Grant Avenue Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.806988, 40.885630</coordinates>
+      </Point>
+    </Placemark><Placemark id="1125">
+      <name>Green Dome Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Greenpoint</neighborhood>
+      <Point>
+        <coordinates>-73.952949, 40.719511</coordinates>
+      </Point>
+    </Placemark><Placemark id="672">
+      <name>Greene Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.975367, 40.689502</coordinates>
+      </Point>
+    </Placemark><Placemark id="3115">
+      <name>Greens for Queens/First Presbyterian Church</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Elmhurst</neighborhood>
+      <Point>
+        <coordinates>-73.877491, 40.735328</coordinates>
+      </Point>
+    </Placemark><Placemark id="358">
+      <name>GreenSpace @ President Street</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Park Slope</neighborhood>
+      <Point>
+        <coordinates>-73.981099, 40.675947</coordinates>
+      </Point>
+    </Placemark><Placemark id="5">
+      <name>Hancock T &amp; T Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.943041, 40.683073</coordinates>
+      </Point>
+    </Placemark><Placemark id="1067">
+      <name>Harding Park Beautification Project</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.857651, 40.807343</coordinates>
+      </Point>
+    </Placemark><Placemark id="105">
+      <name>Harlem Village Green</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.942791, 40.810206</coordinates>
+      </Point>
+    </Placemark><Placemark id="399">
+      <name>Hart Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.944619, 40.693874</coordinates>
+      </Point>
+    </Placemark><Placemark id="357">
+      <name>Hart Street Vegetable Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.941245, 40.694269</coordinates>
+      </Point>
+    </Placemark><Placemark id="461">
+      <name>Hattie Carthan Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford Stuyvesent</neighborhood>
+      <Point>
+        <coordinates>-73.948913, 40.689634</coordinates>
+      </Point>
+    </Placemark><Placemark id="14">
+      <name>Havemeyer Garden Association</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.843971, 40.817764</coordinates>
+      </Point>
+    </Placemark><Placemark id="341">
+      <name>Herkimer-Rochester Street Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.926194, 40.677978</coordinates>
+      </Point>
+    </Placemark><Placemark id="1164">
+      <name>Hollis Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.766532, 40.710938</coordinates>
+      </Point>
+    </Placemark><Placemark id="113">
+      <name>Hope Community's Modesto "Tin" Flores Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.947098, 40.791100</coordinates>
+      </Point>
+    </Placemark><Placemark id="721">
+      <name>Hope Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.983991, 40.722241</coordinates>
+      </Point>
+    </Placemark><Placemark id="182">
+      <name>Hope of Isreal</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.925197, 40.826500</coordinates>
+      </Point>
+    </Placemark><Placemark id="188">
+      <name>Hope Stevens Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Hamilton Heights</neighborhood>
+      <Point>
+        <coordinates>-73.949265, 40.823549</coordinates>
+      </Point>
+    </Placemark><Placemark id="722">
+      <name>Humacao Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.939536, 40.791345</coordinates>
+      </Point>
+    </Placemark><Placemark id="891">
+      <name>Isla Verde Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.906821, 40.814925</coordinates>
+      </Point>
+    </Placemark><Placemark id="1340">
+      <name>Itliba Herbal Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.889692, 40.674102</coordinates>
+      </Point>
+    </Placemark><Placemark id="678">
+      <name>Jackson Forest/Morrisania Concerned Citizens</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Morrisania</neighborhood>
+      <Point>
+        <coordinates>-73.902338, 40.828088</coordinates>
+      </Point>
+    </Placemark><Placemark id="5001">
+      <name>Jane Street Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Meat Packing District</neighborhood>
+      <Point>
+        <coordinates>-74.004536, 40.738008</coordinates>
+      </Point>
+    </Placemark><Placemark id="5026">
+      <name>Jardin la Roca/Rock Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.913216, 40.821804</coordinates>
+      </Point>
+    </Placemark><Placemark id="619">
+      <name>Jerome Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.885806, 40.670591</coordinates>
+      </Point>
+    </Placemark><Placemark id="176">
+      <name>John the Baptist Community Center Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Tompkins Park North</neighborhood>
+      <Point>
+        <coordinates>-73.935059, 40.696375</coordinates>
+      </Point>
+    </Placemark><Placemark id="1179">
+      <name>Jose Gonzalez House Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.891091, 40.828295</coordinates>
+      </Point>
+    </Placemark><Placemark id="336">
+      <name>Joseph Daniel Wilson Memorial Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.950525, 40.807620</coordinates>
+      </Point>
+    </Placemark><Placemark id="906">
+      <name>Kenkeleba House Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.982875, 40.722037</coordinates>
+      </Point>
+    </Placemark><Placemark id="114">
+      <name>Kenton Hall Neighborhood Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>East Concourse</neighborhood>
+      <Point>
+        <coordinates>-73.914846, 40.828999</coordinates>
+      </Point>
+    </Placemark><Placemark id="10">
+      <name>Kosciusko Garden Learning Center</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.939346, 40.692226</coordinates>
+      </Point>
+    </Placemark><Placemark id="490">
+      <name>Krystal Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.880405, 40.843979</coordinates>
+      </Point>
+    </Placemark><Placemark id="599">
+      <name>La Cuevita Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.944300, 40.799119</coordinates>
+      </Point>
+    </Placemark><Placemark id="202">
+      <name>La Finca</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.929741, 40.704304</coordinates>
+      </Point>
+    </Placemark><Placemark id="5106">
+      <name>Latinos Unidos</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.914099, 40.821574</coordinates>
+      </Point>
+    </Placemark><Placemark id="689">
+      <name>Lefferts Place Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Stuyvesant Heights</neighborhood>
+      <Point>
+        <coordinates>-73.957629, 40.680345</coordinates>
+      </Point>
+    </Placemark><Placemark id="1012">
+      <name>Liberty Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Battery Park City</neighborhood>
+      <Point>
+        <coordinates>-74.015959, 40.709422</coordinates>
+      </Point>
+    </Placemark><Placemark id="727">
+      <name>Life Spire/CRMD, Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.938449, 40.802579</coordinates>
+      </Point>
+    </Placemark><Placemark id="275">
+      <name>Lincoln Road Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.952295, 40.661228</coordinates>
+      </Point>
+    </Placemark><Placemark id="534">
+      <name>Linden Boulevard Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>South Jamaica</neighborhood>
+      <Point>
+        <coordinates>-73.770515, 40.692676</coordinates>
+      </Point>
+    </Placemark><Placemark id="650">
+      <name>Little Blue House</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.946853, 40.796814</coordinates>
+      </Point>
+    </Placemark><Placemark id="401">
+      <name>Locust Manor Neighborhood Civic Association</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.773499, 40.683482</coordinates>
+      </Point>
+    </Placemark><Placemark id="605">
+      <name>Long Island City Community Gardens, Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Long Island City</neighborhood>
+      <Point>
+        <coordinates>-73.950096, 40.742704</coordinates>
+      </Point>
+    </Placemark><Placemark id="5030">
+      <name>Los Amigos (II)</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.982027, 40.722512</coordinates>
+      </Point>
+    </Placemark><Placemark id="932">
+      <name>Louis Place Friends' Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford-Stuyvesant</neighborhood>
+      <Point>
+        <coordinates>-73.917320, 40.677423</coordinates>
+      </Point>
+    </Placemark><Placemark id="940">
+      <name>Lower East Side Ecology Center</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.979633, 40.724647</coordinates>
+      </Point>
+    </Placemark><Placemark id="154">
+      <name>Lower East Side People Care Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Lower East Side</neighborhood>
+      <Point>
+        <coordinates>-73.990005, 40.712979</coordinates>
+      </Point>
+    </Placemark><Placemark id="253">
+      <name>Madison Community GreenThumb Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.921907, 40.688000</coordinates>
+      </Point>
+    </Placemark><Placemark id="417">
+      <name>Madison Square Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.912942, 40.694844</coordinates>
+      </Point>
+    </Placemark><Placemark id="1131">
+      <name>Magical Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Lower East Side</neighborhood>
+      <Point>
+        <coordinates>-73.975478, 40.717449</coordinates>
+      </Point>
+    </Placemark><Placemark id="109">
+      <name>Malcolm X Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>East Elmhurst</neighborhood>
+      <Point>
+        <coordinates>-73.889353, 40.755078</coordinates>
+      </Point>
+    </Placemark><Placemark id="802">
+      <name>MaMa Dee's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Crown Heights</neighborhood>
+      <Point>
+        <coordinates>-73.953363, 40.675350</coordinates>
+      </Point>
+    </Placemark><Placemark id="905">
+      <name>Manley's Place</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.878564, 40.674647</coordinates>
+      </Point>
+    </Placemark><Placemark id="3200">
+      <name>Marian S. Heiskell Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Clinton</neighborhood>
+      <Point>
+        <coordinates>-73.987655, 40.761556</coordinates>
+      </Point>
+    </Placemark><Placemark id="5034">
+      <name>Mc Kinley's Children's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Jamaica</neighborhood>
+      <Point>
+        <coordinates>-73.791357, 40.694637</coordinates>
+      </Point>
+    </Placemark><Placemark id="51">
+      <name>McIntosh Neighborhood Association</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>East Elmhurst</neighborhood>
+      <Point>
+        <coordinates>-73.869476, 40.764214</coordinates>
+      </Point>
+    </Placemark><Placemark id="89">
+      <name>Merrick-Marsden Neighbors Assn., Inc.</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.773947, 40.686282</coordinates>
+      </Point>
+    </Placemark><Placemark id="761">
+      <name>Mini Barrio Gardeners</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.940624, 40.799574</coordinates>
+      </Point>
+    </Placemark><Placemark id="628">
+      <name>Miracle Garden/Fairmount Security Community</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.887611, 40.842373</coordinates>
+      </Point>
+    </Placemark><Placemark id="570">
+      <name>Mission Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.942194, 40.800085</coordinates>
+      </Point>
+    </Placemark><Placemark id="189">
+      <name>Mo' Pals</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.948611, 40.827365</coordinates>
+      </Point>
+    </Placemark><Placemark id="890">
+      <name>Mobilization for Change Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Upper West Side</neighborhood>
+      <Point>
+        <coordinates>-73.962164, 40.799694</coordinates>
+      </Point>
+    </Placemark><Placemark id="1379">
+      <name>Model T Seniors Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.894714, 40.831078</coordinates>
+      </Point>
+    </Placemark><Placemark id="506">
+      <name>Nehemiah Ten GreenThumb Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.886456, 40.668671</coordinates>
+      </Point>
+    </Placemark><Placemark id="251">
+      <name>Neighborhood Advisory Committee Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.918455, 40.817611</coordinates>
+      </Point>
+    </Placemark><Placemark id="112">
+      <name>Neighborhood Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.932566, 40.674531</coordinates>
+      </Point>
+    </Placemark><Placemark id="723">
+      <name>Neighbors of Vega Baja</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.940109, 40.792164</coordinates>
+      </Point>
+    </Placemark><Placemark id="497">
+      <name>New 123rd Street Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.946881, 40.806680</coordinates>
+      </Point>
+    </Placemark><Placemark id="1137">
+      <name>New Hoe Avenue Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.890405, 40.823179</coordinates>
+      </Point>
+    </Placemark><Placemark id="942">
+      <name>North LUBA Inc.(Rock Garden)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.885199, 40.834624</coordinates>
+      </Point>
+    </Placemark><Placemark id="108">
+      <name>Northside Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.957338, 40.715881</coordinates>
+      </Point>
+    </Placemark><Placemark id="5039">
+      <name>Oak Grove Pentecostal Holiness Church</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.909668, 40.677948</coordinates>
+      </Point>
+    </Placemark><Placemark id="233">
+      <name>Oasis</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Clinton</neighborhood>
+      <Point>
+        <coordinates>-73.991040, 40.766418</coordinates>
+      </Point>
+    </Placemark><Placemark id="693">
+      <name>Open Road Park (LES)</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.993594, 40.734223</coordinates>
+      </Point>
+    </Placemark><Placemark id="673">
+      <name>Oriental Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.878336, 40.671915</coordinates>
+      </Point>
+    </Placemark><Placemark id="1261">
+      <name>Our Lady of The Presentation Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.911612, 40.673395</coordinates>
+      </Point>
+    </Placemark><Placemark id="229">
+      <name>Pagan's Garden (Linwood Street Block Association)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.882075, 40.671119</coordinates>
+      </Point>
+    </Placemark><Placemark id="922">
+      <name>Palmas del Caribe (Eagle Avenue Community Garden)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Melrose</neighborhood>
+      <Point>
+        <coordinates>-73.908795, 40.822050</coordinates>
+      </Point>
+    </Placemark><Placemark id="331">
+      <name>Papo's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.937291, 40.799075</coordinates>
+      </Point>
+    </Placemark><Placemark id="5055">
+      <name>Passages Academy</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.914602, 40.815308</coordinates>
+      </Point>
+    </Placemark><Placemark id="184">
+      <name>Patchen Avenue United Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford-Stuyvesant</neighborhood>
+      <Point>
+        <coordinates>-73.927286, 40.690723</coordinates>
+      </Point>
+    </Placemark><Placemark id="752">
+      <name>Patrick Van Doren Pocket Park</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.930309, 40.689337</coordinates>
+      </Point>
+    </Placemark><Placemark id="793">
+      <name>Peaceful Valley</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.944062, 40.800516</coordinates>
+      </Point>
+    </Placemark><Placemark id="907">
+      <name>Peach Tree Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.981940, 40.721633</coordinates>
+      </Point>
+    </Placemark><Placemark id="293">
+      <name>People's Garden (Youth City Little League)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.925651, 40.691842</coordinates>
+      </Point>
+    </Placemark><Placemark id="571">
+      <name>Placita Infantil</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.952362, 40.708023</coordinates>
+      </Point>
+    </Placemark><Placemark id="644">
+      <name>Ponderosa Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.896927, 40.649140</coordinates>
+      </Point>
+    </Placemark><Placemark id="662">
+      <name>Powell St. Garden - Livonia</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.901871, 40.663551</coordinates>
+      </Point>
+    </Placemark><Placemark id="458">
+      <name>Powell Street Block Association- Powell St</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.901048, 40.658467</coordinates>
+      </Point>
+    </Placemark><Placemark id="383">
+      <name>Powers Street Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.939763, 40.712941</coordinates>
+      </Point>
+    </Placemark><Placemark id="23">
+      <name>Preston Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.919792, 40.671785</coordinates>
+      </Point>
+    </Placemark><Placemark id="5059">
+      <name>Prophecy Garden Church of God</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.895020, 40.659114</coordinates>
+      </Point>
+    </Placemark><Placemark id="532">
+      <name>Ralph-Lincoln Service Center</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>North Crown Heights</neighborhood>
+      <Point>
+        <coordinates>-73.923102, 40.669888</coordinates>
+      </Point>
+    </Placemark><Placemark id="291">
+      <name>Randall Community Garden (Taylor Soundview Block Association)</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Clason Point</neighborhood>
+      <Point>
+        <coordinates>-73.861470, 40.816976</coordinates>
+      </Point>
+    </Placemark><Placemark id="876">
+      <name>Red Shed Garden (GREC)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.940323, 40.716282</coordinates>
+      </Point>
+    </Placemark><Placemark id="701">
+      <name>Relaxation Garden (Suen Dragon Garden)</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.978365, 40.728530</coordinates>
+      </Point>
+    </Placemark><Placemark id="768">
+      <name>Rev. Linnette C. Willianson Memorial Park</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>West Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.942928, 40.809451</coordinates>
+      </Point>
+    </Placemark><Placemark id="280">
+      <name>Riverside Valley Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Hamilton Heights</neighborhood>
+      <Point>
+        <coordinates>-73.938224, 40.850258</coordinates>
+      </Point>
+    </Placemark><Placemark id="477">
+      <name>Roberto Clemente Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>HighBridge</neighborhood>
+      <Point>
+        <coordinates>-73.922328, 40.839044</coordinates>
+      </Point>
+    </Placemark><Placemark id="187">
+      <name>Rogers Tilden Veronica Place Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Prospect Park South</neighborhood>
+      <Point>
+        <coordinates>-73.952480, 40.646985</coordinates>
+      </Point>
+    </Placemark><Placemark id="959">
+      <name>Santos White Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Coney Island</neighborhood>
+      <Point>
+        <coordinates>-73.988239, 40.576021</coordinates>
+      </Point>
+    </Placemark><Placemark id="1247">
+      <name>Schaef Earth Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Park Slope</neighborhood>
+      <Point>
+        <coordinates>-73.983322, 40.668806</coordinates>
+      </Point>
+    </Placemark><Placemark id="110">
+      <name>Seabury M.B.D. Community Park</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Morrisania</neighborhood>
+      <Point>
+        <coordinates>-73.887644, 40.837302</coordinates>
+      </Point>
+    </Placemark><Placemark id="193">
+      <name>Secret Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Village</neighborhood>
+      <Point>
+        <coordinates>-73.980162, 40.722327</coordinates>
+      </Point>
+    </Placemark><Placemark id="735">
+      <name>Senior Citizens Block Association of Mermaid</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Coney Island</neighborhood>
+      <Point>
+        <coordinates>-73.986510, 40.575735</coordinates>
+      </Point>
+    </Placemark><Placemark id="1144">
+      <name>Senior Citizens Sculpture Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.942322, 40.828758</coordinates>
+      </Point>
+    </Placemark><Placemark id="536">
+      <name>Serenity Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Washington Heights</neighborhood>
+      <Point>
+        <coordinates>-73.948300, 40.826144</coordinates>
+      </Point>
+    </Placemark><Placemark id="912">
+      <name>Sh'ma Yisrael</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.916029, 40.675568</coordinates>
+      </Point>
+    </Placemark><Placemark id="555">
+      <name>Sheffield South Block Assn. Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.892935, 40.660680</coordinates>
+      </Point>
+    </Placemark><Placemark id="549">
+      <name>Sheild of Faith</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.878458, 40.677441</coordinates>
+      </Point>
+    </Placemark><Placemark id="377">
+      <name>Sherman Avenue Association</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.919022, 40.828379</coordinates>
+      </Point>
+    </Placemark><Placemark id="4">
+      <name>Spencer Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.954835, 40.691494</coordinates>
+      </Point>
+    </Placemark><Placemark id="1168">
+      <name>Spencer's Little Heaven</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.955109, 40.681644</coordinates>
+      </Point>
+    </Placemark><Placemark id="103">
+      <name>St. Albans Local Development</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.761885, 40.691764</coordinates>
+      </Point>
+    </Placemark><Placemark id="845">
+      <name>St. Ann's Block Garden Association</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.911420, 40.817218</coordinates>
+      </Point>
+    </Placemark><Placemark id="1350">
+      <name>St. Francis of Assisi Peace Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.949762, 40.661619</coordinates>
+      </Point>
+    </Placemark><Placemark id="1349">
+      <name>St. Francsis Assisi/St. Blaise Church Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.950703, 40.661606</coordinates>
+      </Point>
+    </Placemark><Placemark id="784">
+      <name>St. John's Place Renaissance Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.923432, 40.669878</coordinates>
+      </Point>
+    </Placemark><Placemark id="1187">
+      <name>St. John's Recreational Center "Inspirational Garden"</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.934781, 40.673494</coordinates>
+      </Point>
+    </Placemark><Placemark id="27">
+      <name>St. Mark's Avenue/ Prospect Heights Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Prospect Heights</neighborhood>
+      <Point>
+        <coordinates>-73.969005, 40.678904</coordinates>
+      </Point>
+    </Placemark><Placemark id="1313">
+      <name>St. Mark's Lutheran Church Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bushwick</neighborhood>
+      <Point>
+        <coordinates>-73.933931, 40.697923</coordinates>
+      </Point>
+    </Placemark><Placemark id="871">
+      <name>Stars of Hope Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford Stuyvesent</neighborhood>
+      <Point>
+        <coordinates>-73.950713, 40.684905</coordinates>
+      </Point>
+    </Placemark><Placemark id="895">
+      <name>Sterling Community Group</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Brownsville</neighborhood>
+      <Point>
+        <coordinates>-73.921963, 40.671211</coordinates>
+      </Point>
+    </Placemark><Placemark id="904">
+      <name>Sumpter Street Garden Group</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bedford-Stuyvesant</neighborhood>
+      <Point>
+        <coordinates>-73.917518, 40.680022</coordinates>
+      </Point>
+    </Placemark><Placemark id="1056">
+      <name>Surf Side Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Coney Island</neighborhood>
+      <Point>
+        <coordinates>-73.994229, 40.572949</coordinates>
+      </Point>
+    </Placemark><Placemark id="416">
+      <name>T&amp;T Vernon Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.943860, 40.694994</coordinates>
+      </Point>
+    </Placemark><Placemark id="756">
+      <name>Taqwa Community Farm</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>HighBridge</neighborhood>
+      <Point>
+        <coordinates>-73.928864, 40.832514</coordinates>
+      </Point>
+    </Placemark><Placemark id="1124">
+      <name>The Learning Tree</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.913782, 40.852268</coordinates>
+      </Point>
+    </Placemark><Placemark id="390">
+      <name>The Olive Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Williamsburg</neighborhood>
+      <Point>
+        <coordinates>-73.938867, 40.713335</coordinates>
+      </Point>
+    </Placemark><Placemark id="1041">
+      <name>TLC Sculpture Park</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.900552, 40.672719</coordinates>
+      </Point>
+    </Placemark><Placemark id="801">
+      <name>Townsend Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Mount Eden</neighborhood>
+      <Point>
+        <coordinates>-73.910997, 40.846903</coordinates>
+      </Point>
+    </Placemark><Placemark id="270">
+      <name>Umoja Garden (Garden Beautiful)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Bed-Stuy</neighborhood>
+      <Point>
+        <coordinates>-73.919784, 40.687525</coordinates>
+      </Point>
+    </Placemark><Placemark id="1220">
+      <name>United Gardens</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.893307, 40.847673</coordinates>
+      </Point>
+    </Placemark><Placemark id="118">
+      <name>United Herkimer Garden Club</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.950169, 40.679886</coordinates>
+      </Point>
+    </Placemark><Placemark id="433">
+      <name>United We Stand Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.915558, 40.805377</coordinates>
+      </Point>
+    </Placemark><Placemark id="106">
+      <name>Unity Park</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>West Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.942823, 40.809189</coordinates>
+      </Point>
+    </Placemark><Placemark id="327">
+      <name>Upon this Rock Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.877810, 40.674316</coordinates>
+      </Point>
+    </Placemark><Placemark id="1001">
+      <name>Victory Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Coney Island</neighborhood>
+      <Point>
+        <coordinates>-73.974777, 40.582409</coordinates>
+      </Point>
+    </Placemark><Placemark id="1066">
+      <name>Victory Garden - Crotona Park</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.900505, 40.836779</coordinates>
+      </Point>
+    </Placemark><Placemark id="422">
+      <name>Villa Santurce Jardineras</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>East Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.945660, 40.796980</coordinates>
+      </Point>
+    </Placemark><Placemark id="5115">
+      <name>Villa Santurce Jardineras - Park Avenue</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.945663, 40.796982</coordinates>
+      </Point>
+    </Placemark><Placemark id="5116">
+      <name>Vogue Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.914352, 40.820508</coordinates>
+      </Point>
+    </Placemark><Placemark id="281">
+      <name>Walt L. Shemal (Dean North Community Garden)</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Crown Heights</neighborhood>
+      <Point>
+        <coordinates>-73.953548, 40.677388</coordinates>
+      </Point>
+    </Placemark><Placemark id="1046">
+      <name>Wanaqua Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.921759, 40.806673</coordinates>
+      </Point>
+    </Placemark><Placemark id="889">
+      <name>Warwick Block Association</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East New York</neighborhood>
+      <Point>
+        <coordinates>-73.886298, 40.674404</coordinates>
+      </Point>
+    </Placemark><Placemark id="1045">
+      <name>Warwick Street Greenery Glow Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>East NY</neighborhood>
+      <Point>
+        <coordinates>-73.884368, 40.668663</coordinates>
+      </Point>
+    </Placemark><Placemark id="958">
+      <name>Waterfront Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Soundview</neighborhood>
+      <Point>
+        <coordinates>-73.850685, 40.809940</coordinates>
+      </Point>
+    </Placemark><Placemark id="403">
+      <name>West 111th Street People's Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Morningside Heights</neighborhood>
+      <Point>
+        <coordinates>-73.986187, 40.772309</coordinates>
+      </Point>
+    </Placemark><Placemark id="633">
+      <name>West 124th Street Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.945280, 40.807050</coordinates>
+      </Point>
+    </Placemark><Placemark id="1123">
+      <name>West 181 Street Beautification Project</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Fort George</neighborhood>
+      <Point>
+        <coordinates>-73.940552, 40.850479</coordinates>
+      </Point>
+    </Placemark><Placemark id="668">
+      <name>West 181st  Street Beaut. Proj.</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Fort George</neighborhood>
+      <Point>
+        <coordinates>-73.939030, 40.851096</coordinates>
+      </Point>
+    </Placemark><Placemark id="1072">
+      <name>West 87th Street Park &amp; Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Upper West Side</neighborhood>
+      <Point>
+        <coordinates>-73.971077, 40.786925</coordinates>
+      </Point>
+    </Placemark><Placemark id="25">
+      <name>West Side Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Upper West Side</neighborhood>
+      <Point>
+        <coordinates>-73.971794, 40.789314</coordinates>
+      </Point>
+    </Placemark><Placemark id="148">
+      <name>Westbrook Memorial Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Brooklyn</borough>
+      <neighborhood>Crown Heights</neighborhood>
+      <Point>
+        <coordinates>-73.951566, 40.677982</coordinates>
+      </Point>
+    </Placemark><Placemark id="5117">
+      <name>William B. Washington Memorial Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Manhattan</borough>
+      <neighborhood>Harlem</neighborhood>
+      <Point>
+        <coordinates>-73.951294, 40.811085</coordinates>
+      </Point>
+    </Placemark><Placemark id="312">
+      <name>William Rainey Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood>Longwood/Hunts Point</neighborhood>
+      <Point>
+        <coordinates>-73.901081, 40.815070</coordinates>
+      </Point>
+    </Placemark><Placemark id="1102">
+      <name>William Simmons Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Queens</borough>
+      <neighborhood>Jamaica</neighborhood>
+      <Point>
+        <coordinates>-73.853785, 40.690457</coordinates>
+      </Point>
+    </Placemark><Placemark id="1021">
+      <name>Woodycrest Avenue Community Garden</name>
+      <surveyed>False</surveyed>
+      <borough>Bronx</borough>
+      <neighborhood></neighborhood>
+      <Point>
+        <coordinates>-73.927490, 40.833260</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+</kml>
